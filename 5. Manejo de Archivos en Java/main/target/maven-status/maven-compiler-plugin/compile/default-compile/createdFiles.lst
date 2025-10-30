@@ -1,0 +1,6 @@
+edu\cerp\checkin\console\MainConsole.class
+edu\cerp\checkin\model\Inscripcion.class
+edu\cerp\checkin\logic\SesionService.class
+edu\cerp\checkin\persistencia\ArchivoManager.class
+edu\cerp\checkin\App.class
+edu\cerp\checkin\ui\CheckInGUI.class
